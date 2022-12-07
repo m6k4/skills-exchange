@@ -28,6 +28,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "apiUrl": "process.env.REACT_APP_DEV_MODE"
     }
   }
 }
